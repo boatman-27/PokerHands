@@ -2,6 +2,8 @@
 
 This project implements a poker hand comparison game where two players each receive a random poker hand, and their hands are evaluated to determine the winner. In the case of a tie, additional logic is used to break the tie based on the hand rankings.
 
+This project was inspired by [Coding Dojo](/https://codingdojo.org/kata/PokerHands/)
+
 ## Features
 - Random card generation with suits and values.
 - Hand ranking based on standard poker rules:
